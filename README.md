@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicoleavans
 - 👀 I’m interested in c++, bash, machine learning, and a little php here and there
-- 🌱 I’m currently learning c++, bash
+- 🌱 I’m currently learning c++, bash, and machine learning
 - 📫 How to reach me - cnicoleavans@live.com
 
 <!---
